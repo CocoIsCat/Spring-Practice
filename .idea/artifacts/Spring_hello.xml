@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="Spring-hello:war">
+  <artifact type="war" name="Spring-hello">
     <output-path>$PROJECT_DIR$/out/artifacts/Spring_hello</output-path>
-    <root id="archive" name="Spring-hello_war.war">
+    <root id="archive" name="Spring-hello.war">
       <element id="artifact" artifact-name="Spring-hello:war exploded" />
     </root>
   </artifact>
